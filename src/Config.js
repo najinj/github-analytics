@@ -1,2 +1,2 @@
 export const RootUrl = 'https://api.github.com';
-export const secret = "6fe7d294d4ed80b9a867d2b69953423c01550386";
+export const secret = "4ac5a46d0d9e30eca8c92e62b4079fed372539d1";

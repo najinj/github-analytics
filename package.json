@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
+    "@nivo/pie": "^0.51.0",
+    "axios": "^0.18.0",
+    "moment": "^2.22.2",
+    "pondjs": "^0.8.9",
     "react": "^16.6.1",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-js-pagination": "^3.0.2",
+    "react-paginate": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-timeseries-charts": "^0.15.5"
   },
   "scripts": {
     "start": "react-scripts start",

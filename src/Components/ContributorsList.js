@@ -95,7 +95,7 @@ const Styles = {
     marginRight : '2%',
     width:'96%',
     border:'0.2px solid #c8ced3',
-    marginTop:"10%",
+    marginTop:"5%",
     borderRadius:'.25rem',
     backgroundColor:'#fff',
     boxShadow: ' 0 4px 4px rgba(0, 0, 0, 0.3)',

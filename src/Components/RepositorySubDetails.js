@@ -29,7 +29,7 @@ export default class RepositorySubDetails extends Component {
 
       return (
         <div style={Styles.navBar}>
-          <Link to={"/"} style={{ textDecoration: 'none' ,color : 'unset',marginTop:'1%',marginLeft:'1%',flex:0.1}} >
+          <Link to={"/"} style={{ textDecoration: 'none' ,color : 'unset',marginTop:'-0.5%',marginLeft:'1%',flex:0.1}} >
             <img src={github_logo} width="100px" style={{display:'inline-table',float:'left'}}/>
           </Link>
 
@@ -80,17 +80,18 @@ const Styles = {
     borderBottom:'1px solid rgba(0, 0, 0, 0.3)',
     overflow: 'hidden',position: 'fixed',
     top: 0,
-    width:'100%'
+    width:'100%',
+    height:"80px"
   },
   details_span:{
     fontSize:18,
-    marginTop:'3%',
+    marginTop:'-3%',
     marginLeft:'2%'
   },
   span : {
     fontSize:25,
     color : '#0074D9',
-    marginTop:'3%',
+    marginTop:'1%',
     marginLeft:'2%',
     marginBottom:'2%'
   },

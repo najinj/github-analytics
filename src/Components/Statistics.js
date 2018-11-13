@@ -64,7 +64,7 @@ export default class Statistics extends Component {
 const Styles = {
   TimelinePadding:{
     marginTop:'5%',
-    marginLeft:'5%',
+    marginLeft:'2%',
     marginRight:'100px'
   },
   Pie:{
@@ -75,7 +75,7 @@ const Styles = {
     paddingRight:"2%",
     float:'left',
     marginLeft:'2%',
-    marginRight:'5%',
+    marginRight:'2%',
     border:'0.2px solid #c8ced3',
     marginTop:"2%",
     borderRadius:'.25rem',
